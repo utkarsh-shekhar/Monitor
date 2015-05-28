@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/home/utkarsh/workspace/Major/lib/webcam-capture-0.3.10-RC7.jar"/>
+	<classpathentry kind="lib" path="/home/utkarsh/workspace/Major/lib/bridj-0.6.3-20130316.190111-13.jar"/>
+	<classpathentry kind="lib" path="/home/utkarsh/workspace/Major/lib/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/utkarsh/workspace/Major/lib/slf4j-simple-1.7.7.jar"/>
+	<classpathentry kind="lib" path="/home/utkarsh/workspace/Major/lib/sanselan-0.97-incubator-sources.jar"/>
+	<classpathentry kind="lib" path="/home/utkarsh/workspace/Major/lib/sanselan-0.97-incubator.jar"/>
+	<classpathentry kind="lib" path="/home/utkarsh/workspace/Major/lib/sanselan-0.97-incubator-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/utkarsh/workspace/Major/lib/commons-imaging-1.0-20130811.122228-3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
